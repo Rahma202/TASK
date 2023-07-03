@@ -1,0 +1,40 @@
+.home{
+  background-image: url(../../assets/sd.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  padding: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.home img{
+    border-radius: 10px;
+    height:250px;
+}
+.btn-detail{
+    width: 200px;
+    background-color: #fff;
+    border-radius: 10px;
+    color: black;
+
+}
+.style-vedio{
+    background-color: #fff;
+    border-radius: 7px;
+    height: 200px;
+    width: 400px;
+    position: relative;
+    top: -16px;
+    display: flex;
+    align-items: center;
+}
+.secend{
+    background-color: rgb(242, 236, 236);
+   
+}
+.img-vedio{
+ width: 70px;
+ margin: auto;
+}
+.special-style{
+    color: rgb(38, 174, 128);
+}
